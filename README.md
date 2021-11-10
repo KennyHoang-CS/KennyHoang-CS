@@ -9,7 +9,7 @@
 ###### Technologies I do not know, I do know that I have the ability to learn and adapt to be successful anywhere due to having a growth mindset. In both of my studies, I have traits of being determined, persistent, achieving time and priority management while working a part-time job to meet objectives. I am teachable with an attitude to learn quickly in execution. </code>
 
 <ul>
-  <li><a>https://www.linkedin.com/in/kennyhoang-cs/</a></li>
+  <li>[Linkedln](https://www.linkedin.com/in/kennyhoang-cs/)</li>
 </ul>
 
 
