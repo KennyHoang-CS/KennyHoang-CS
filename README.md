@@ -8,10 +8,15 @@
 
 ###### Technologies I do not know, I do know that I have the ability to learn and adapt to be successful anywhere due to having a growth mindset. In both of my studies, I have traits of being determined, persistent, achieving time and priority management while working a part-time job to meet objectives. I am teachable with an attitude to learn quickly in execution. </code>
 
-<ul>
-  <li>[Linkedln] (https://www.linkedin.com/in/kennyhoang-cs/)</li>
-</ul>
+You can see my live-demo projects @ [portfolio site](https://kennyhoang-cs.github.io/Portfolio-Website/).
 
+Recommended Projects to look at @ pinned section:
+<ul>
+  <li>MCD-OTS-Frontend</li>
+  <li>Anime-Platform</li>
+  <li>React-Jobly-FrontEnd</li>
+  <li>Connect4</li>
+</ul>
 
 <!--
 **KennyHoang-CS/KennyHoang-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
