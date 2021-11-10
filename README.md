@@ -18,6 +18,8 @@ Recommended Projects to look at @ pinned section:
   <li>Connect4</li>
 </ul>
 
+My top two: MCD-OTS-Frontend and Anime-Platform
+
 <!--
 **KennyHoang-CS/KennyHoang-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
